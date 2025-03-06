@@ -6,7 +6,7 @@ dPCADir = '/Users/jeongjun/Desktop/dPCA-master/matlab';
 addpath(fullfile(dPCADir));
 
 for shifted = 1:60
-    load(['../../../../Figure4/4F_decoding/early_delay/regul_train_test_' num2str(shifted) '.mat']);
+    load(['../../../../Figure3/3C_decoding/early_delay/regul_train_test_' num2str(shifted) '.mat']);
 
     % cross projection?
     for cross = 2
