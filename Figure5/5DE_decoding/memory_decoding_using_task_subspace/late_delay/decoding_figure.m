@@ -1,4 +1,8 @@
-%% max accuracy
+%% Memory target decoding using task subspace
+% Step0: Run 'Figure4/4F_decoding/late_delay/dPCAScript.m'
+% Step1: Run 'decodeDirection.m'
+% Step2: Run 'decoding_figure.m'
+
 clear; clc; close all;
 
 % dPCA path
