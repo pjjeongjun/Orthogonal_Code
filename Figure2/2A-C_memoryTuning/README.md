@@ -5,7 +5,7 @@
 </head>
     <body>
     <b>1. 'visual_responsiveness_data'</b>
-    <p>Visual response amplitude and its p-value for each cluster.<br>
+    <p>Visual response amplitude and its p-value for each cluster.</br>
     <i>Visual response</i>: firing rate difference before and after peripheral dot.</p>
     </body> 
         
