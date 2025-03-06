@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title><h1>Data description</h1></title>
+    <h1>Data description</h1>
 </head>
 <body>
     1. 'all_cellList.mat'
