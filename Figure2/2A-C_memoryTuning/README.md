@@ -5,7 +5,6 @@
     <h1>Data description</h1>
 </head>
     
-<body>
 <b>1. 'visual_responsiveness_data'</b>
 <p>Visual response amplitude and its p-value for each cluster.
 (<i>Visual response</i>: firing rate difference before and after peripheral dot.)</p>
@@ -16,5 +15,5 @@
 <b>3. 'tstats_memorycells'</b>
 <p>t-statistics for memory tuning across memory cells.</p>
 
-</body>
+
 </html>
