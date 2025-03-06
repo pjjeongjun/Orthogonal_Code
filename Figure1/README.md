@@ -1,13 +1,10 @@
 1. 'all_cellList.mat'
-   <p> </p>
-   The list of 671 visually responsive PFC cells from two monkeys (fen/hel).
+The list of 671 visually responsive PFC cells from two monkeys (fen/hel).
+   
 <p> </p>
+
 2. 'behavior.mat'
-   <p> </p>
-   look_success: the number of success trials in the look task.
-   <p> </p>
-   look_failure: the number of failure trials in the look task.
-   <p> </p>
-   nolook_success: the number of success trials in the nolook task.
-   <p> </p>
-   nolook_failure: the number of failure trials in the nolook task.
+look_success: the number of success trials in the look task.
+look_failure: the number of failure trials in the look task.
+nolook_success: the number of success trials in the nolook task.
+nolook_failure: the number of failure trials in the nolook task.
