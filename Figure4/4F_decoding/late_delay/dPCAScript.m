@@ -6,7 +6,7 @@
 clear; clc; close all;
 
 % dPCA path
-dPCADir = '/Users/jeongjun/Desktop/dPCA-master/matlab';
+dPCADir = '/Users/jeongjun/Desktop/dPCA-master/matlab'; % replace it to your path
 addpath(fullfile(dPCADir));
 
 % time selection
@@ -26,7 +26,7 @@ for shifted = 1:60
     testset_tt = {};
 
     for task = 3 %1:nolook 2:look %3:mixed
-        load(['../../memory_decoding/late_delay/firingRates_directions_' num2str(shifted) '_normalized.mat']); % cell x direction x task x time x trial
+        load(['../../../Figure3/3C_decoding/late_delay/firingRates_directions_' num2str(shifted) '_normalized.mat']); % cell x direction x task x time x trial
         if task == 3
             firingRates_nolook = squeeze(firingRates(:,:,1,period3,:));
             firingRates_look = squeeze(firingRates(:,:,2,period3,:));
