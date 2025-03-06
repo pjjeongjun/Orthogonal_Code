@@ -7,7 +7,7 @@
 
 <body> 
 <b>1. 'firingRates_pref_null.mat'</b>
-<p>Firing rates of PFC memory cells in preferred and null target directions.<br>
+<p>Firing rates of PFC memory cells in the preferred and null target directions.<br>
 Data structure: neuron x direction(null,pref) x task(nolook,look) x time(-500:50:1150) x trial </p>
 </body>   
 
