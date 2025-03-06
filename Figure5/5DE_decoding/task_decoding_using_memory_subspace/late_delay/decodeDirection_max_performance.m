@@ -1,15 +1,15 @@
 %% Decode target direction using Mahalanobis distance
 clear; clc; close all;
 
-% Add path
-tdrDir = '/Users/jeongjun/Documents/Larry/analysis/von/subspace/dPCA-master/matlab';
-addpath(fullfile(tdrDir));
+% dPCA path
+dpcaDir = '/Users/jeongjun/Desktop/dPCA-master/matlab'; % replace it to your path
+addpath(fullfile(dpcaDir));
 
 for shifted = 1:60
-    load(['../../../task_subspace/early_delay/regul_train_test_' num2str(shifted) '.mat']);
+    load(['../../../../Figure3/3C_decoding/early_delay/regul_train_test_' num2str(shifted) '.mat']);
     W_tt_early = W_tt;
     componentsToUse_tt_early = componentsToUse_tt_memory;
-    load(['../../../task_subspace/late_delay/regul_train_test_' num2str(shifted) '.mat']);
+    load(['../../../../Figure3/3C_decoding/late_delay/regul_train_test_' num2str(shifted) '.mat']);
     W_tt = W_tt_early;
     componentsToUse_tt_memory = componentsToUse_tt_early;
 
