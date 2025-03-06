@@ -17,7 +17,7 @@ Data structure: neuron x direction(null,pref) x task(nolook,look) x time(-500:50
 
 <body> 
 <b>1. 'psth.m'</b>: Figure2D
-<p>Peristimulus Time Histograms of PFC memory cells.</p>
+<p>PeriStimulus Time Histograms of PFC memory cells.</p>
 </body>    
 
 </html>
