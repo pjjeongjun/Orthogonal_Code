@@ -2,11 +2,11 @@
 clear; clc; close all;
 
 % dPCA path
-dPCADir = '/Users/jeongjun/Desktop/dPCA-master/matlab';
+dPCADir = '/Users/jeongjun/Desktop/dPCA-master/matlab'; % replace it to your path
 addpath(fullfile(dPCADir));
 
 for shifted = 1:60
-    load(['../../stimulation//regul_train_test_' num2str(shifted) '.mat']);
+    load(['../../stimulus/regul_train_test_' num2str(shifted) '.mat']);
     W_tt_sti = W_tt;
     componentsToUse_tt_sti = componentsToUse_tt;
     load(['../regul_train_test_' num2str(shifted) '.mat']);
