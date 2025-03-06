@@ -1,3 +1,8 @@
+%% Memory target decoding using task subspace
+% Step0: Run 'Figure4/4F_decoding/early_delay/dPCAScript.m'
+% Step1: Run 'decodeDirection.m'
+% Step2: Run 'decoding_figure.m'
+
 %% Decode target direction using Mahalanobis distance
 clear; clc; close all;
 
