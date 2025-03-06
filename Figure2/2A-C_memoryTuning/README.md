@@ -27,12 +27,12 @@
 
 <body> 
 <b>1. 'memory_tuning.m'</b>: Figure2A,B
-<p>Preferred directions of the memory cells in the look and no-look tasks.
+<p>Preferred directions of the memory cells in the look and no-look tasks.</p>
 </body>   
 
 <body> 
 <b>2. 'tuning_difference.m'</b>: Figure2C
-<p>Preferred direction difference between the look and no-look tasks as a function of t-statistics.
+<p>Preferred direction difference between the look and no-look tasks as a function of t-statistics.</p>
 </body>   
 
 </html>
