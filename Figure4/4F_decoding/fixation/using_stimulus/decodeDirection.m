@@ -6,7 +6,7 @@ dPCADir = '/Users/jeongjun/Desktop/dPCA-master/matlab';
 addpath(fullfile(dPCADir));
 
 for shifted = 1:60
-    load(['../../stimulation/regul_train_test_' num2str(shifted) '.mat']);
+    load(['../../stimulus/regul_train_test_' num2str(shifted) '.mat']);
     W_tt_ano = W_tt;
     componentsToUse_tt_ano = componentsToUse_tt;
     load(['../regul_train_test_' num2str(shifted) '.mat']);
