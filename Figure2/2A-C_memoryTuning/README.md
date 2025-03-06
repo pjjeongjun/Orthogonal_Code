@@ -27,7 +27,7 @@
 
 <body> 
 <b>1. 'memory_tuning.m'</b>
-<p>Preferred directions of the memory cells in the look and no-look tasks.<be>
+<p>Preferred directions of the memory cells in the look and no-look tasks.<br>
 <b>Figure2A,B</b>
 </body>   
 
