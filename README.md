@@ -17,6 +17,6 @@ Citation: <a href="https://www.nature.com/articles/nature127421" target="_blank"
 <hr>
 <p></p>
 
-<b>Original code for demixed principal component analysis (dPCA)</b>:
+<b>Original code for demixed Principal Component Analysis (dPCA)</b>:
 https://github.com/machenslab/dPCA<p></p>
 Citation: <a href="https://elifesciences.org/articles/10989" target="_blank">Demixed principal component analysis of neural population data</a>, Kobak et al., eLife, 2016.
