@@ -7,7 +7,7 @@
 
 <body> 
 <b>1. 'firingRates_directions_normalized.mat'</b>
-<p>Firing rates of PFC memory cells throughout the trial (-500~1000 ms from target onset) in the look/no-look tasks.</p>
+<p>Z-scored firing rates for each PFC memory cell in the look/no-look tasks.</p>
 </body>   
 
 <head>
