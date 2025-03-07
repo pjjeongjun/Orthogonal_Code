@@ -14,6 +14,8 @@
 <p>Memory tuning amplitude during the late delay period (0-1000ms from target offset) in the look task.</p>
 <b>4. 'memory_amp_nolook_late_delay.mat'</b>
 <p>Memory tuning amplitude during the late delay period (0-1000ms from target offset) in the no-look task.</p>
+<b>5. 'fixation_amp.mat'</b>
+<p>Firing rate difference between the look and no-look tasks during the fixation period.</p>
 </body>   
 
 <head>
