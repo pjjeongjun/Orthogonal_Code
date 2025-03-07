@@ -22,13 +22,6 @@ for shifted = 1:60
             decoded_task = []; decoded_dir_nolook = [];
             percent_correct_task_tmp = []; percent_correct_nolook_tmp = [];
 
-            % ncomps_max = [];
-            % for boots = 1:size(componentsToUse_tt,1)
-            %     for decoder = 3
-            %         ncomps_max = [ncomps_max; size(componentsToUse_tt{boots,decoder},2)];
-            %     end
-            % end
-            % ncomps_max = min(ncomps_max);
             ncomps_max = 3;
 
             for ncomps = ncomps_max
@@ -56,7 +49,7 @@ for shifted = 1:60
                         decoded_task(test_task) = i;
                     end
 
-                    % performace of decoding
+                    % performance of decoding
                     correct_task_tmp(ncomps,boots) = 0;
                     for direction = 1:length(decoded_task)
                         correct_task_tmp(ncomps,boots) = correct_task_tmp(ncomps,boots)+length(find(decoded_task(direction) == direction));
@@ -65,8 +58,6 @@ for shifted = 1:60
                 end
             end
 
-            % choose maximum accuracy
-            % [~,n_task] = max(mean(percent_correct_task_tmp(:,:),2));
             n_task = ncomps_max;
             percent_correct_task(tests,:) = squeeze(percent_correct_task_tmp(n_task,:));
             correct_task(tests,:) = squeeze(correct_task_tmp(n_task,:));
