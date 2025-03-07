@@ -24,10 +24,12 @@
 <p>Define dPCs for spatial memory using the early/late delay period activity.</p>
 </body>      
 
+<body> 
 <b>2. 'decode_direction.m'</b>
 <p>Decode target direction using the early/late delay period activity projected in the memory subspace.</p>
 </body>  
 
+<body> 
 <b>3. 'decoding_figure.m'</b>
 <p>Plot decoding performance of the task-specific and shared memory subspaces.</p>
 </body>  
