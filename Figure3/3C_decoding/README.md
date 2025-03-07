@@ -28,7 +28,7 @@ n: 1 of 60 distinct sets of the 6 target direction bins, with each subsequent se
 
 <body> 
 <b>3. 'plot_accuracy.m'</b>
-<p>Plot decoding performance of the task-specific and shared of memory subspace</p>
+<p>Plot decoding performance of the task-specific and shared of memory subspaces</p>
 </body>    
 
 </html>
