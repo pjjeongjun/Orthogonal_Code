@@ -18,12 +18,12 @@ n: 1 of 60 distinct sets of the 6 target direction bins, with each subsequent se
 
 <body> 
 <b>1. 'run_dPCA.m'</b>
-<p>Define dPCs for spatial memory using the early delay period activity (0-500 ms from target offset).</p>
+<p>Define dPCs for spatial memory using the early/late delay period activity.</p>
 </body>    
 
 <body> 
 <b>2. 'decode_direction.m'</b>
-<p>Decode target direction using the early delay period activity projected in the memory subspace.</p>
+<p>Decode target direction using the early/late delay period activity projected in the memory subspace.</p>
 </body>    
 
 <body> 
