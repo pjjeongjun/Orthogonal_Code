@@ -6,7 +6,7 @@
 clear; clc; close all;
 
 % dPCA path
-dPCADir = '../../../dPCA-master/matlab';
+dPCADir = '/Users/jeongjun/Desktop/dPCA-master/matlab'; % replace it to your path
 addpath(fullfile(dPCADir));
 
 % time selection
