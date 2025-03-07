@@ -15,7 +15,7 @@
 </head>
 
 <body> 
-<b>2. 'PCAscript.m'</b>
+<b>1. 'PCAscript.m'</b>
 <p>Project the early/late delay period activity into the PC space.</p>
 </body>   
 
