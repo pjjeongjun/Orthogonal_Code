@@ -7,7 +7,7 @@
 
 <body> 
 <b>1. 'spikes_binary_directions_pref_null.mat'</b>
-<p>Firing rates of PFC memory cells in each condition (preferred/null directions x look/no-look tasks).</p>
+<p>Firing rates of PFC memory cells in each condition (6 target direction bins x look/no-look tasks).</p>
 </body>   
 
 <head>
