@@ -7,12 +7,12 @@
 
 <body> 
 <b>1. 'spikes_binary_directions_pref_null.mat'</b>
-<p> Firing rates of PFC memory cells in each condition (preferred/null directions x look/no-look tasks)</p>
+<p> Firing rates of PFC memory cells in each condition (preferred/null directions x look/no-look tasks).</p>
 </body>   
 
 <body> 
 <b>2. 'nblocks.mat'</b>
-<p> Number of look and no-look task blocks for each PFC memory cell</p>
+<p> Number of look and no-look task blocks for each PFC memory cell.</p>
 </body>  
 
 <head>
