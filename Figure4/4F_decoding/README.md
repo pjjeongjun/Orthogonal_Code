@@ -11,7 +11,7 @@
 </body>   
 
 <body> 
-<b>4 subfolders in each folder</b>
+<b>3 subfolders in each folder</b>
 <p>Each subfolder contains the codes for decoding task identity in the period specified in its name.</p>
 </body>  
 
