@@ -6,8 +6,8 @@
 clear; clc; close all;
 
 % dPCA path
-dPCADir = '../../../dPCA-master/matlab';
-addpath(fullfile(dPCADir));
+dpcaDir = '/Users/jeongjun/Desktop/dPCA-master/matlab'; % replace it to your path
+addpath(fullfile(dpcaDir));
 
 % time selection
 period3 = 11:20;  %0~500 ms (delay)
