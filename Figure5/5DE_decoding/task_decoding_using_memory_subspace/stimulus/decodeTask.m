@@ -54,7 +54,7 @@ for shifted = 1:60
                         decoded_task(test_task) = i;
                     end
 
-                    % performace of decoding
+                    % performance of decoding
                     correct_task_tmp(ncomps,boots) = 0;
                     for direction = 1:length(decoded_task)
                         correct_task_tmp(ncomps,boots) = correct_task_tmp(ncomps,boots)+length(find(decoded_task(direction) == direction));
