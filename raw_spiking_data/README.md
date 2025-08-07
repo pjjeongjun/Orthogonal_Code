@@ -5,11 +5,16 @@
 </head>
 <body>
     <b>1. 'Spike data of success trials'</b>
-    <p>memory_vp001_corrected_either_tp001_von_abt3_0_500_success_att3_500_1200: Firing rates of memory cells in the interval from -500 to 1200 ms from target ONSET.<br>
-    memory_vp001_corrected_either_tp001_von_abt3_0_500_success_abt3_0_500: Firing rates of memory cells in the interval from 0 to 500 ms from target OFFSET.<br>
-    memory_vp001_corrected_either_tp001_von_abt3_0_500_success_abt3_500_1000: Firing rates of memory cells in the interval from 500 to 1000 ms from target OFFSET.<br>
-    visual_vp001_corrected_either_tp001_von_att3_50_250_success_att3_500_1200: Firing rates of visual cells in the interval from 0 to 1200 ms from target ONSET.<br>
-    untuned_vp001_corrected_either_tp001_von_att3_50_250_success_att3_500_1200: Firing rates of untuned cells in the interval from 0 to 1200 ms from target ONSET.</p>
+    <p>memory_vp001_corrected_either_tp001_von_abt3_0_500_success_att3_500_1200:<br>
+        Firing rates of memory cells in the interval from -500 to 1200 ms from target ONSET. <br>
+    memory_vp001_corrected_either_tp001_von_abt3_0_500_success_abt3_0_500:<br>
+        Firing rates of memory cells in the interval from 0 to 500 ms from target OFFSET. <br>
+    memory_vp001_corrected_either_tp001_von_abt3_0_500_success_abt3_500_1000: <br>
+        Firing rates of memory cells in the interval from 500 to 1000 ms from target OFFSET. <br>
+    visual_vp001_corrected_either_tp001_von_att3_50_250_success_att3_500_1200:<br>
+        Firing rates of visual cells in the interval from 0 to 1200 ms from target ONSET. <br>
+    untuned_vp001_corrected_either_tp001_von_att3_50_250_success_att3_500_1200: <br>
+        Firing rates of untuned cells in the interval from 0 to 1200 ms from target ONSET. </p>
 
         
     <b>2. 'Spike data of error trials'</b>
