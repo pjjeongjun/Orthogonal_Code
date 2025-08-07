@@ -6,7 +6,7 @@
 <body>
     <b>1. 'Spike data of success trials'</b>
     <p>memory_vp001_corrected_either_tp001_von_abt3_0_500_success_att3_500_1200:<br>
-        Firing rates of memory cells in the interval from -500 to 1200 ms from target ONSET. <br>
+        Firing rates of memory cells in the interval from -500 to 1200 ms from target ONSET. <br><br>
     memory_vp001_corrected_either_tp001_von_abt3_0_500_success_abt3_0_500:<br>
         Firing rates of memory cells in the interval from 0 to 500 ms from target OFFSET. <br>
     memory_vp001_corrected_either_tp001_von_abt3_0_500_success_abt3_500_1000: <br>
