@@ -1,8 +1,29 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <title>Data and Code Description</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 40px;
+        }
+        h1 {
+            font-size: 28px;
+            margin-bottom: 10px;
+        }
+        h2 {
+            margin-top: 30px;
+            font-size: 22px;
+        }
+        p {
+            margin-left: 20px;
+        }
+        b {
+            font-family: "Courier New", monospace;
+        }
+    </style>
 </head>
 <body>
     <h1>Data and Code Description</h1>
@@ -43,10 +64,10 @@
 
     <h2>3. Tuning Data</h2>
     <p><b>memory_tuning_vp001_corrected_either_tp001_von_abt3_0_500.mat:</b><br>
-        Spatial tuning of memory cells in the interval from 0 to 500 ms after target <b>OFFSET</b>.
+        Spatial tuning of memory cells from 0 to 500 ms after target <b>OFFSET</b>.
     </p>
     <p><b>visual_tuning_vp001_corrected_either_tp001_von_att3_50_250.mat:</b><br>
-        Spatial tuning of visual cells in the interval from 50 to 250 ms after target <b>ONSET</b>.
+        Spatial tuning of visual cells from 50 to 250 ms after target <b>ONSET</b>.
     </p>
 </body>
 </html>
