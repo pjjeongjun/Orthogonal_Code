@@ -2,36 +2,36 @@
 
 ## 1. Spike Data – Success Trials
 
-- memory_vp001_corrected_either_tp001_von_abt3_0_500_success_att3_500_1200  
+- memory_vp001_corrected_either_tp001_von_abt3_0_500_**success**_att3_500_1200  
   Firing rates of memory cells from **-500 to 1200 ms** relative to target **ONSET**.
 
-- memory_vp001_corrected_either_tp001_von_abt3_0_500_success_abt3_0_500  
+- memory_vp001_corrected_either_tp001_von_abt3_0_500_**success**_abt3_0_500  
   Firing rates of memory cells from **0 to 500 ms** relative to target **OFFSET**.
 
-- memory_vp001_corrected_either_tp001_von_abt3_0_500_success_abt3_500_1000  
+- memory_vp001_corrected_either_tp001_von_abt3_0_500_**success**_abt3_500_1000  
   Firing rates of memory cells from **500 to 1000 ms** relative to target **OFFSET**.
 
-- visual_vp001_corrected_either_tp001_von_att3_50_250_success_att3_500_1200  
+- visual_vp001_corrected_either_tp001_von_att3_50_250_**success**_att3_500_1200  
   Firing rates of visual cells from **0 to 1200 ms** relative to target **ONSET**.
 
-- untuned_vp001_corrected_either_tp001_von_att3_50_250_success_att3_500_1200  
+- untuned_vp001_corrected_either_tp001_von_att3_50_250_**success**_att3_500_1200  
   Firing rates of untuned cells from **0 to 1200 ms** relative to target **ONSET**.
 
 ## 2. Spike Data – Error Trials
 
-- memory_vp001_corrected_either_tp001_von_abt3_0_500_error_att3_500_1200  
+- memory_vp001_corrected_either_tp001_von_abt3_0_500_**error**_att3_500_1200  
   Firing rates of memory cells from **-500 to 1200 ms** relative to target **ONSET**.
 
-- memory_vp001_corrected_either_tp001_von_abt3_0_500_error_abt3_0_500  
+- memory_vp001_corrected_either_tp001_von_abt3_0_500_**error**_abt3_0_500  
   Firing rates of memory cells from **0 to 500 ms** relative to target **OFFSET**.
 
-- memory_vp001_corrected_either_tp001_von_abt3_0_500_error_abt3_500_1000  
+- memory_vp001_corrected_either_tp001_von_abt3_0_500_**error**_abt3_500_1000  
   Firing rates of memory cells from **500 to 1000 ms** relative to target **OFFSET**.
 
-- visual_vp001_corrected_either_tp001_von_att3_50_250_error_att3_500_1200  
+- visual_vp001_corrected_either_tp001_von_att3_50_250_**error**_att3_500_1200  
   Firing rates of visual cells from **0 to 1200 ms** relative to target **ONSET**.
 
-- untuned_vp001_corrected_either_tp001_von_att3_50_250_error_att3_500_1200  
+- untuned_vp001_corrected_either_tp001_von_att3_50_250_**error**_att3_500_1200  
   Firing rates of untuned cells from **0 to 1200 ms** relative to target **ONSET**.
 
 ## 3. Tuning Data
