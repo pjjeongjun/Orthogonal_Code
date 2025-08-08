@@ -37,10 +37,10 @@
 ## 3. Tuning Data
 
 - memory_tuning_vp001_corrected_either_tp001_von_abt3_0_500.mat  
-  Spatial tuning of memory cells from **0 to 500 ms** after target **OFFSET**.
+  Spatial tuning of **memory cells** from **0 to 500 ms** after target **OFFSET**.
 
 - visual_tuning_vp001_corrected_either_tp001_von_att3_50_250.mat  
-  Spatial tuning of visual cells from **50 to 250 ms** after target **ONSET**.
+  Spatial tuning of **visual cells** from **50 to 250 ms** after target **ONSET**.
 
 ## 4. Data reconstruction
 
