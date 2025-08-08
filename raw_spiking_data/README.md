@@ -45,9 +45,9 @@
 ## 4. Data reconstruction
 
 - **dataScript_6bins.m**  
- Reformats spike data into the structure: **neuron x direction x task x time x trial**.
+ Reformats spike data into the structure: **neuron x direction x task x time x trial**.<br>
  Target directions are grouped into six uniform bins, each spanning 60°.
 
 - **dataScript_pref_null.m**  
- Reformats spike data into the structure: **neuron x direction x task x time x trial**.
+ Reformats spike data into the structure: **neuron x direction x task x time x trial**.<br>
  Target directions are categorized as preferred, intermediate, or null; only preferred and null directions are retained.
