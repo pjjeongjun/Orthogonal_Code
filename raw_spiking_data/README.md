@@ -41,3 +41,13 @@
 
 - **visual_tuning_vp001_corrected_either_tp001_von_att3_50_250.mat**  
   Spatial tuning of visual cells from **50 to 250 ms** after target **ONSET**.
+
+## 4. Data reconstruction
+
+- **dataScript_6bins.m**  
+ Reformats spike data into the structure: **neuron x direction x task x time x trial**.
+ Target directions are grouped into six uniform bins, each spanning 60°.
+
+- **dataScript_pref_null.m**  
+ Reformats spike data into the structure: **neuron x direction x task x time x trial**.
+ Target directions are categorized as preferred, intermediate, or null; only preferred and null directions are retained.
